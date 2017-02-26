@@ -7,7 +7,9 @@ ppl-assignment-nikki1016 created by GitHub Classroom
 
 Command for Terminal in Linux:
   $cd NetBeansProjects/PPLAssignment/build/classes
+  
   For q1:     $java pplassignment.q1_main
+  
   For q2:     $java pplassignment.q2_main
  
   For Windows :
