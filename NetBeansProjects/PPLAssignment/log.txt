@@ -1,0 +1,56 @@
+couples 0 : khnrme rrojbn
+couples 1 : ebypot ntrkfc
+couples 2 : ndnrfj djzpoh
+couples 3 : vcklpz mnntow
+couples 4 : ydmrny qdhmyz
+couples 5 : oyfran qpaoxn
+couples 6 : kvutst pnbhvg
+couples 7 : ppjxct wprpjl
+couples 8 : qbkgfp sddrax
+couples 9 : nglhkw pmekud
+rrojbn give essentialof price 517 to khnrme
+rrojbn give essentialof price 530 to khnrme
+ntrkfc give luxuryof price 804 to ebypot
+ntrkfc give essentialof price 517 to ebypot
+ntrkfc give essentialof price 530 to ebypot
+ntrkfc give essentialof price 631 to ebypot
+ntrkfc give essentialof price 635 to ebypot
+ntrkfc give essentialof price 794 to ebypot
+djzpoh give luxuryof price 804 to ndnrfj
+djzpoh give essentialof price 517 to ndnrfj
+djzpoh give essentialof price 530 to ndnrfj
+djzpoh give essentialof price 631 to ndnrfj
+djzpoh give essentialof price 635 to ndnrfj
+djzpoh give essentialof price 794 to ndnrfj
+mnntow give essentialof price 517 to vcklpz
+mnntow give essentialof price 530 to vcklpz
+mnntow give essentialof price 631 to vcklpz
+mnntow give essentialof price 635 to vcklpz
+qdhmyz give essentialof price 517 to ydmrny
+qdhmyz give essentialof price 530 to ydmrny
+qdhmyz give essentialof price 631 to ydmrny
+qdhmyz give essentialof price 635 to ydmrny
+qdhmyz give essentialof price 794 to ydmrny
+qpaoxn give luxuryof price 804 to oyfran
+qpaoxn give essentialof price 517 to oyfran
+qpaoxn give essentialof price 530 to oyfran
+qpaoxn give essentialof price 631 to oyfran
+pnbhvg give luxuryof price 804 to kvutst
+pnbhvg give essentialof price 517 to kvutst
+pnbhvg give essentialof price 530 to kvutst
+pnbhvg give essentialof price 631 to kvutst
+wprpjl give essentialof price 517 to ppjxct
+wprpjl give essentialof price 530 to ppjxct
+wprpjl give essentialof price 631 to ppjxct
+wprpjl give essentialof price 635 to ppjxct
+wprpjl give essentialof price 794 to ppjxct
+wprpjl give essentialof price 795 to ppjxct
+sddrax give essentialof price 517 to qbkgfp
+sddrax give essentialof price 530 to qbkgfp
+sddrax give essentialof price 631 to qbkgfp
+sddrax give essentialof price 635 to qbkgfp
+sddrax give essentialof price 794 to qbkgfp
+pmekud give essentialof price 517 to nglhkw
+pmekud give essentialof price 530 to nglhkw
+pmekud give essentialof price 631 to nglhkw
+pmekud give essentialof price 635 to nglhkw
