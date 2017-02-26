@@ -138,10 +138,27 @@ public class utility {
         for(i = 0; i < noOfGirl; i++){
             if(couple[i].boy == null)     
                 break;
-            
-            for(j =0; j< noOfGift; j++){
+            j=0;
+            if(j == 0 && gift[j].price > (couple[i].boy.budget ) ){
+                    couple[i].boy.budget += gift[j].price;
+                    couple[i].arr_gift.add(gift[j]);
+                    couple[i].girl.tot_gift_value = gift[j].value;
+                    couple[i].girl.tot_gift_amount = gift[j].price;
+                    couple[i].boy.tot_gift_amount = gift[j].price;
+                    try{
+                        fp.write(couple[i].boy.bname +" give "+gift[j].gifttype + " of price "+gift[j].price+ " to " +couple[i].girl.gname);
+                        fp.newLine();
+                    }
+                    catch(Exception e){
+                        
+                    }
+                   
+                    
+                }
+            for(j =1; j< noOfGift; j++){
                 int k=noOfGift;
-                if(couple[i].boy.b_type.equals("geeks") && j==0 && gift[j].price <= (couple[i].boy.budget - couple[i].girl.tot_gift_amount )){
+                
+                if(couple[i].boy.b_type.equals("geeks") && j==1 && gift[j].price <= (couple[i].boy.budget - couple[i].girl.tot_gift_amount )){
                     k = find(gift);
                     if(k==-1) continue;
                     couple[i].arr_gift.add(gift[k]);
@@ -156,7 +173,13 @@ public class utility {
                         
                     }
                 }
+                if(couple[i].boy.b_type.equals("geeks") || couple[i].boy.b_type.equals("miser")){
+                    if(couple[i].girl.tot_gift_amount > couple[i].girl.maint_cost){
+                        break;
+                    }
+                }
                 if(gift[j].price <= (couple[i].boy.budget - couple[i].girl.tot_gift_amount) && j!=k ){
+                    
                     couple[i].arr_gift.add(gift[j]);
                     couple[i].girl.tot_gift_value += gift[j].value;
                     couple[i].girl.tot_gift_amount += gift[j].price;
@@ -170,11 +193,7 @@ public class utility {
                         
                     }
                 }
-                else if(j == 0 && gift[j].price > (couple[i].boy.budget - couple[i].boy.tot_gift_amount) ){
-                    couple[i].boy.budget += gift[j].price;
-                    j--;
-                    
-                }
+                
                 else break;
                 
             }
@@ -228,7 +247,7 @@ public class utility {
     //sort all the as per theri increasing price
     void sort(gifts gift[],int no_gift){
         int i,j;
-        System.out.println(gift.length);
+       // System.out.println(gift.length);
         gifts temp = new gifts("",0,0);
         for(i=0; i < gift.length -1; i++){
             for(j= i+1; j< gift.length ; j++){
