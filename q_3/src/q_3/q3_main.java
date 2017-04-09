@@ -24,7 +24,10 @@ public class q3_main {
      * and k best Compatible couples
      * @throws FileNotFoundException if required file is not found
      */
-    public static void main(String[] args) throws FileNotFoundException {        
+    public static void main(String[] args) throws FileNotFoundException {  
+        /**
+        * @param object is general class object to generate girls, boys and gifts and store them in files        
+        */
         generalClass object = new generalClass();
         object.arr_couple= new couples[object.noOfGirl];
             

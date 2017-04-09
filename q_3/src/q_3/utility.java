@@ -4,15 +4,6 @@ import java.io.*;
 import java.sql.Timestamp;
 import java.util.*;
 
-/*
-* utility class consists of all functions used
-*Allocate method allocate boyfriends to girlfriends as per their requirements  and make couples
-* Available function check whether girl and boy are available to commit as per their status and requirements
-*available_attrgirl method check whether girl and boy are available to commit as per their status and requirements
-*allocate_gift method create giftbasket for each couple if boys' budget allows
-*calculate_happiness_comp calculate happiness and compatibility of all couples
-*bestKCompatibleCouple find k best compatible couples
-*/
 public class utility {
     Random rand = new Random();
     /**
@@ -327,7 +318,7 @@ public class utility {
     /**
      * find luxury gift that is not in gift basket of that couple
      * @param gift
-     * @return 
+     * @return i index where luxury gift is found in collection
      */
     int find(gifts gift[]){
         int i;
@@ -342,7 +333,7 @@ public class utility {
      * find boy
      * @param boyy
      * @param boy
-     * @return 
+     * @return i index where that boy is found in collection
      */
     int findboy(boys boyy,boys boy[]){
         int i;
@@ -358,7 +349,7 @@ public class utility {
      * find girl
      * @param girll
      * @param girl
-     * @return 
+     * @return i index where that girl is found in collection
      */
     int findgirl(girls girll,girls girl[]){
         int i;
