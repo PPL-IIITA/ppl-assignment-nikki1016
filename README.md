@@ -1,4 +1,4 @@
-#please ignore the previous submission by me (@samnik)
+### please ignore the previous submission by me (@samnik)
 
 # ppl-assignment-nikki1016
 ppl-assignment-nikki1016 created by GitHub Classroom
@@ -38,6 +38,8 @@ $ cd ppl-assignment-nikki1016
   
   For q2:     $java pplassignment.q2_main
  
+ #### Command for Terminal in Linux  for all other questions is provided in how_to_run.txt in each ques
+ 
 #### For Windows :
     build on NetBeans IDE 8.1
     
@@ -68,6 +70,7 @@ q_9
 q_10 
 ```
 # Tools Used
-
+```
 Documentation done using javadocs.
 Class diagram generated using EasyUML plugins (NetBeans 8.1)
+```
