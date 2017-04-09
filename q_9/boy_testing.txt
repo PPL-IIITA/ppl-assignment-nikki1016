@@ -1,0 +1,33 @@
+-------Boys--------
+boyname btype attr intg budget 
+bb0 Geek 4 9 2105
+bb1 Geek 7 8 3154
+bb2 Miser 5 9 2283
+bb3 Miser 8 3 1466
+bb4 Generous 3 9 1031
+bb5 Generous 3 4 2411
+bb6 Generous 0 0 2936
+bb7 Miser 8 9 1089
+bb8 Geek 4 5 1384
+bb9 Generous 1 2 1555
+bb10 Generous 3 6 2249
+bb11 Miser 9 6 1566
+bb12 Miser 5 5 1169
+bb13 Geek 3 9 2099
+bb14 Miser 1 7 2171
+bb15 Generous 2 6 1905
+bb16 Generous 1 5 3414
+bb17 Miser 6 9 1351
+bb18 Miser 0 3 2490
+bb19 Geek 6 7 1531
+bb20 Geek 3 7 2156
+bb21 Miser 2 1 1559
+bb22 Geek 6 5 3288
+bb23 Miser 8 8 2442
+bb24 Generous 1 2 1507
+bb25 Geek 7 9 1478
+bb26 Miser 4 9 1498
+bb27 Miser 9 2 1902
+bb28 Miser 4 3 2031
+bb29 Miser 9 1 1076
+-------------------------------
