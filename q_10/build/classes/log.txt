@@ -1,0 +1,47 @@
+Couples are: 
+couples 0 : gg5 bb17 2017-04-10 02:57:55.813
+couples 1 : gg0 bb10 2017-04-10 02:57:55.83
+couples 2 : gg1 bb21 2017-04-10 02:57:55.83
+couples 3 : gg3 bb7 2017-04-10 02:57:55.83
+couples 4 : gg4 bb20 2017-04-10 02:57:55.831
+couples 5 : gg2 bb0 2017-04-10 02:57:55.831
+couples 6 : gg6 bb19 2017-04-10 02:57:55.831
+couples 7 : gg7 bb23 2017-04-10 02:57:55.831
+Gift Exchanges are : 
+bb17 give gift3 of type Luxury of price 654 to gg5 at 2017-04-10 02:57:55.833
+bb17 give gift25 of type Utility of price 649 to gg5 at 2017-04-10 02:57:55.833
+bb17 give gift15 of type Luxury of price 745 to gg5 at 2017-04-10 02:57:55.834
+bb17 give gift17 of type Luxury of price 687 to gg5 at 2017-04-10 02:57:55.834
+bb10 give gift1 of type Luxury of price 602 to gg0 at 2017-04-10 02:57:55.834
+bb10 give gift10 of type Utility of price 579 to gg0 at 2017-04-10 02:57:55.834
+bb10 give gift4 of type Essential of price 208 to gg0 at 2017-04-10 02:57:55.835
+bb10 give gift5 of type Luxury of price 624 to gg0 at 2017-04-10 02:57:55.835
+bb10 give gift10 of type Utility of price 579 to gg0 at 2017-04-10 02:57:55.835
+bb21 give gift8 of type Luxury of price 739 to gg1 at 2017-04-10 02:57:55.835
+bb21 give gift8 of type Luxury of price 739 to gg1 at 2017-04-10 02:57:55.835
+bb21 give gift19 of type Utility of price 577 to gg1 at 2017-04-10 02:57:55.836
+bb21 give gift26 of type Essential of price 168 to gg1 at 2017-04-10 02:57:55.836
+bb21 give gift17 of type Luxury of price 687 to gg1 at 2017-04-10 02:57:55.836
+bb7 give gift21 of type Utility of price 488 to gg3 at 2017-04-10 02:57:55.836
+bb7 give gift21 of type Utility of price 488 to gg3 at 2017-04-10 02:57:55.837
+bb7 give gift27 of type Luxury of price 708 to gg3 at 2017-04-10 02:57:55.837
+bb7 give gift26 of type Essential of price 168 to gg3 at 2017-04-10 02:57:55.837
+bb20 give gift0 of type Utility of price 582 to gg4 at 2017-04-10 02:57:55.837
+bb20 give gift28 of type Luxury of price 648 to gg4 at 2017-04-10 02:57:55.837
+bb20 give gift22 of type Luxury of price 771 to gg4 at 2017-04-10 02:57:55.838
+bb20 give gift26 of type Essential of price 168 to gg4 at 2017-04-10 02:57:55.838
+bb0 give gift26 of type Essential of price 168 to gg2 at 2017-04-10 02:57:55.838
+bb0 give gift5 of type Luxury of price 624 to gg2 at 2017-04-10 02:57:55.838
+bb0 give gift26 of type Essential of price 168 to gg2 at 2017-04-10 02:57:55.838
+bb0 give gift0 of type Utility of price 582 to gg2 at 2017-04-10 02:57:55.839
+bb0 give gift20 of type Luxury of price 734 to gg2 at 2017-04-10 02:57:55.839
+bb0 give gift8 of type Luxury of price 739 to gg2 at 2017-04-10 02:57:55.839
+bb0 give gift5 of type Luxury of price 624 to gg2 at 2017-04-10 02:57:55.839
+bb19 give gift14 of type Luxury of price 721 to gg6 at 2017-04-10 02:57:55.839
+bb19 give gift26 of type Essential of price 168 to gg6 at 2017-04-10 02:57:55.839
+bb19 give gift15 of type Luxury of price 745 to gg6 at 2017-04-10 02:57:55.84
+bb19 give gift14 of type Luxury of price 721 to gg6 at 2017-04-10 02:57:55.84
+bb19 give gift17 of type Luxury of price 687 to gg6 at 2017-04-10 02:57:55.84
+bb23 give gift25 of type Utility of price 649 to gg7 at 2017-04-10 02:57:55.84
+bb23 give gift22 of type Luxury of price 771 to gg7 at 2017-04-10 02:57:55.84
+bb23 give gift26 of type Essential of price 168 to gg7 at 2017-04-10 02:57:55.841

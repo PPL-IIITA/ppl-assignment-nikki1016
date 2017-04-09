@@ -1,0 +1,38 @@
+Couples are: 
+couples 0 : gg0 bb6 2017-04-10 02:24:05.262
+couples 1 : gg6 bb15 2017-04-10 02:24:05.28
+couples 2 : gg7 bb13 2017-04-10 02:24:05.281
+couples 3 : gg1 bb4 2017-04-10 02:24:05.281
+couples 4 : gg4 bb11 2017-04-10 02:24:05.281
+couples 5 : gg5 bb1 2017-04-10 02:24:05.282
+couples 6 : gg3 bb3 2017-04-10 02:24:05.282
+couples 7 : gg2 bb7 2017-04-10 02:24:05.282
+Gift Exchanges are : 
+bb6 give gift22 of type Luxury of price 606 to gg0 at 2017-04-10 02:24:05.284
+bb6 give gift9 of type Luxury of price 769 to gg0 at 2017-04-10 02:24:05.285
+bb6 give gift22 of type Luxury of price 606 to gg0 at 2017-04-10 02:24:05.285
+bb6 give gift9 of type Luxury of price 769 to gg0 at 2017-04-10 02:24:05.285
+bb6 give gift3 of type Luxury of price 758 to gg0 at 2017-04-10 02:24:05.286
+bb15 give gift22 of type Luxury of price 606 to gg6 at 2017-04-10 02:24:05.286
+bb15 give gift9 of type Luxury of price 769 to gg6 at 2017-04-10 02:24:05.286
+bb15 give gift22 of type Luxury of price 606 to gg6 at 2017-04-10 02:24:05.286
+bb15 give gift3 of type Luxury of price 758 to gg6 at 2017-04-10 02:24:05.287
+bb13 give gift9 of type Luxury of price 769 to gg7 at 2017-04-10 02:24:05.287
+bb13 give gift14 of type Luxury of price 624 to gg7 at 2017-04-10 02:24:05.287
+bb4 give gift9 of type Luxury of price 769 to gg1 at 2017-04-10 02:24:05.287
+bb4 give gift3 of type Luxury of price 758 to gg1 at 2017-04-10 02:24:05.288
+bb4 give gift22 of type Luxury of price 606 to gg1 at 2017-04-10 02:24:05.288
+bb4 give gift9 of type Luxury of price 769 to gg1 at 2017-04-10 02:24:05.288
+bb11 give gift14 of type Luxury of price 624 to gg4 at 2017-04-10 02:24:05.288
+bb11 give gift22 of type Luxury of price 606 to gg4 at 2017-04-10 02:24:05.289
+bb11 give gift22 of type Luxury of price 606 to gg4 at 2017-04-10 02:24:05.289
+bb1 give gift3 of type Luxury of price 758 to gg5 at 2017-04-10 02:24:05.289
+bb1 give gift22 of type Luxury of price 606 to gg5 at 2017-04-10 02:24:05.289
+bb1 give gift17 of type Luxury of price 605 to gg5 at 2017-04-10 02:24:05.289
+bb1 give gift9 of type Luxury of price 769 to gg5 at 2017-04-10 02:24:05.29
+bb3 give gift17 of type Luxury of price 605 to gg3 at 2017-04-10 02:24:05.29
+bb3 give gift9 of type Luxury of price 769 to gg3 at 2017-04-10 02:24:05.29
+bb3 give gift17 of type Luxury of price 605 to gg3 at 2017-04-10 02:24:05.29
+bb3 give gift14 of type Luxury of price 624 to gg3 at 2017-04-10 02:24:05.291
+bb7 give gift14 of type Luxury of price 624 to gg2 at 2017-04-10 02:24:05.291
+bb7 give gift22 of type Luxury of price 606 to gg2 at 2017-04-10 02:24:05.291
