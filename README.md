@@ -13,7 +13,8 @@ ppl-assignment-nikki1016 created by GitHub Classroom
 * Class Diagrams
 * Build Details
 
-## Developed and Tested on:
+## Build details 
+ #### Developed and Tested on:
 
 * Netbeans Version: NetBeans IDE 8.1 
 * Java: 1.8.0_101; Java HotSpot(TM) 64-Bit Server VM 25.101-b13
