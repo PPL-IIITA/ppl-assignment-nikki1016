@@ -1,0 +1,63 @@
+Couples are: 
+couples 0 : gg0 bb17 2017-04-10 00:07:29.657
+couples 1 : gg2 bb13 2017-04-10 00:07:29.676
+couples 2 : gg3 bb2 2017-04-10 00:07:29.676
+couples 3 : gg4 bb7 2017-04-10 00:07:29.677
+couples 4 : gg6 bb3 2017-04-10 00:07:29.677
+couples 5 : gg10 bb8 2017-04-10 00:07:29.677
+couples 6 : gg12 bb1 2017-04-10 00:07:29.677
+Gift Exchanges are : 
+bb17 give gift19 of type Essentialof price 259 to gg0 at 2017-04-10 00:07:29.678
+bb17 give gift10 of type Essentialof price 260 to gg0 at 2017-04-10 00:07:29.679
+bb17 give gift2 of type Essentialof price 265 to gg0 at 2017-04-10 00:07:29.68
+bb17 give gift7 of type Essentialof price 293 to gg0 at 2017-04-10 00:07:29.681
+bb17 give gift0 of type Essentialof price 344 to gg0 at 2017-04-10 00:07:29.682
+bb17 give gift11 of type Essentialof price 348 to gg0 at 2017-04-10 00:07:29.683
+bb17 give gift4 of type Utilityof price 484 to gg0 at 2017-04-10 00:07:29.684
+bb13 give gift19 of type Essentialof price 259 to gg2 at 2017-04-10 00:07:29.684
+bb13 give gift10 of type Essentialof price 260 to gg2 at 2017-04-10 00:07:29.685
+bb13 give gift2 of type Essentialof price 265 to gg2 at 2017-04-10 00:07:29.686
+bb13 give gift7 of type Essentialof price 293 to gg2 at 2017-04-10 00:07:29.687
+bb13 give gift0 of type Essentialof price 344 to gg2 at 2017-04-10 00:07:29.687
+bb13 give gift11 of type Essentialof price 348 to gg2 at 2017-04-10 00:07:29.687
+bb13 give gift4 of type Utilityof price 484 to gg2 at 2017-04-10 00:07:29.687
+bb13 give gift1 of type Utilityof price 532 to gg2 at 2017-04-10 00:07:29.688
+bb2 give gift19 of type Essentialof price 259 to gg3 at 2017-04-10 00:07:29.688
+bb2 give gift10 of type Essentialof price 260 to gg3 at 2017-04-10 00:07:29.688
+bb2 give gift2 of type Essentialof price 265 to gg3 at 2017-04-10 00:07:29.688
+bb2 give gift7 of type Essentialof price 293 to gg3 at 2017-04-10 00:07:29.689
+bb2 give gift0 of type Essentialof price 344 to gg3 at 2017-04-10 00:07:29.689
+bb2 give gift11 of type Essentialof price 348 to gg3 at 2017-04-10 00:07:29.689
+bb2 give gift4 of type Utilityof price 484 to gg3 at 2017-04-10 00:07:29.689
+bb2 give gift1 of type Utilityof price 532 to gg3 at 2017-04-10 00:07:29.689
+bb7 give gift19 of type Essentialof price 259 to gg4 at 2017-04-10 00:07:29.69
+bb7 give gift10 of type Essentialof price 260 to gg4 at 2017-04-10 00:07:29.69
+bb7 give gift2 of type Essentialof price 265 to gg4 at 2017-04-10 00:07:29.69
+bb7 give gift7 of type Essentialof price 293 to gg4 at 2017-04-10 00:07:29.69
+bb7 give gift0 of type Essentialof price 344 to gg4 at 2017-04-10 00:07:29.69
+bb7 give gift11 of type Essentialof price 348 to gg4 at 2017-04-10 00:07:29.691
+bb7 give gift4 of type Utilityof price 484 to gg4 at 2017-04-10 00:07:29.691
+bb7 give gift1 of type Utilityof price 532 to gg4 at 2017-04-10 00:07:29.691
+bb3 give gift19 of type Essentialof price 259 to gg6 at 2017-04-10 00:07:29.691
+bb3 give gift10 of type Essentialof price 260 to gg6 at 2017-04-10 00:07:29.691
+bb3 give gift2 of type Essentialof price 265 to gg6 at 2017-04-10 00:07:29.692
+bb3 give gift7 of type Essentialof price 293 to gg6 at 2017-04-10 00:07:29.692
+bb3 give gift0 of type Essentialof price 344 to gg6 at 2017-04-10 00:07:29.692
+bb3 give gift11 of type Essentialof price 348 to gg6 at 2017-04-10 00:07:29.692
+bb3 give gift4 of type Utilityof price 484 to gg6 at 2017-04-10 00:07:29.692
+bb8 give gift19 of type Essentialof price 259 to gg10 at 2017-04-10 00:07:29.693
+bb8 give gift10 of type Essentialof price 260 to gg10 at 2017-04-10 00:07:29.693
+bb8 give gift2 of type Essentialof price 265 to gg10 at 2017-04-10 00:07:29.693
+bb8 give gift7 of type Essentialof price 293 to gg10 at 2017-04-10 00:07:29.693
+bb8 give gift0 of type Essentialof price 344 to gg10 at 2017-04-10 00:07:29.693
+bb1 give gift19 of type Essentialof price 259 to gg12 at 2017-04-10 00:07:29.694
+bb1 give gift10 of type Essentialof price 260 to gg12 at 2017-04-10 00:07:29.694
+bb1 give gift2 of type Essentialof price 265 to gg12 at 2017-04-10 00:07:29.694
+bb1 give gift7 of type Essentialof price 293 to gg12 at 2017-04-10 00:07:29.694
+Least 3 Happiest Couple
+Couple: bb17 and gg0 breaks up.
+gg0 committed to bb0 at 2017-04-10 00:07:29.695
+Couple: bb7 and gg4 breaks up.
+gg4 committed to bb25 at 2017-04-10 00:07:29.696
+Couple: bb1 and gg12 breaks up.
+gg12 committed to bb6 at 2017-04-10 00:07:29.696
