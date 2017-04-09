@@ -7,12 +7,12 @@ Change to directory:
 $ cd ppl-assignment-nikki1016
 
 
-$ cd q_3/src/q_3/
+$ cd q_4/src/q_4/
 
 $ javac *.java
 $ cd 
-$ cd ppl-assignment-nikki1016/q_3/build/classes
-$ java q_3.q3_main
+$ cd ppl-assignment-nikki1016/q_4/build/classes
+$ java q_4.q4_main
 $ javadoc *.java
 
 To see the logs for gifting and committed 
