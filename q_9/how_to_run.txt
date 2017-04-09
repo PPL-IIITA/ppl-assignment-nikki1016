@@ -10,6 +10,8 @@ $ cd ppl-assignment-nikki1016
 $ cd q_9/src/q_9/
 
 $ javac *.java
+$ javac *.java
+
 $ cd 
 $ cd ppl-assignment-nikki1016/q_9/build/classes
 $ java q_9.q9_main
@@ -18,5 +20,4 @@ $ javadoc *.java
 To see the logs for gifting and committed 
 
 $ cat log.txt
-$ javac *.java
 $ cd ..
