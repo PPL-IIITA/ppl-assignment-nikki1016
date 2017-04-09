@@ -7,7 +7,10 @@ package q_5;
 
 /**
  *
- * @author nikita
+ * 
+ * luxury Gifts subclass of gifts
+ * @see gifts
+ * 
  */
 //Luxury type of gifts having value,price,luxury rating and difficulty to obtain that gift rating
 public class Luxury extends gifts {

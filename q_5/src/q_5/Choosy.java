@@ -7,9 +7,9 @@ package q_5;
 
 /**
  *
- * @author nikita
+ * The choosy girl subclass of girls
+  * @see girls
  */
-
 public class Choosy extends girls{
     /**
      * @see girls

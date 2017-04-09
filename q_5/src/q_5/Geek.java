@@ -4,7 +4,10 @@
  * and open the template in the editor.
  */
 package q_5;
-
+/**
+     * Geek class subclass of boys
+     *      @see boys
+     */
 public class Geek extends boys{
      /**
      *Boys class containing :

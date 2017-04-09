@@ -6,11 +6,12 @@
 package q_5;
 
 
-
 /**
  *
- * @author nikita
+ * The desperate girl subclass of girls
+ * @see girls
  */
+
 
 
 public class Desparate extends girls{

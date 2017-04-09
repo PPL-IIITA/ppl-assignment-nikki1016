@@ -3,7 +3,10 @@ package q_5;
 import java.io.*;
 import java.sql.Timestamp;
 import java.util.*;
-
+/**
+ * 
+ * contains all methods that are generally used
+ */
 public class utility {
     Random rand = new Random();
     /**

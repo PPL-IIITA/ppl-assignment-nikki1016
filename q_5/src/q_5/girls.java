@@ -8,8 +8,11 @@ package q_5;
 import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Random;
-
-
+/**
+ *
+     * abstract Girls class 
+     * @see girls
+ */
 
 abstract public class girls {
     /**

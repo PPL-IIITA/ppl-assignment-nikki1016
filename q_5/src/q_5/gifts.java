@@ -9,7 +9,9 @@ import java.util.Random;
 
 /**
  *
- * @author nikita
+     * abstract Gifts class 
+ * @see gifts
+
  */
 
 abstract public class gifts {

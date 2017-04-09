@@ -6,8 +6,8 @@
 package q_5;
 
 /**
- *
- * @author nikita
+ *Essential gifts subclass gifts
+ * @see gifts
  */
 public class Essential extends gifts{
     /**

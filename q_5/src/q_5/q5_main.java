@@ -7,10 +7,9 @@ package q_5;
 
 import java.io.FileNotFoundException;
 
-
 /**
  *
- * @author nikita
+ *Q5 main class 
  */
 public class q5_main {
     /**
