@@ -1,0 +1,22 @@
+------Gifts-------
+giftid price value 
+0 Essential 284 161
+1 Essential 304 135
+2 Luxury 695 429
+3 Luxury 610 421
+4 Utility 572 227
+5 Essential 322 194
+6 Utility 552 269
+7 Essential 250 178
+8 Luxury 695 420
+9 Essential 321 106
+10 Utility 572 210
+11 Utility 520 233
+12 Luxury 629 466
+13 Essential 278 111
+14 Utility 524 247
+15 Utility 481 250
+16 Luxury 669 458
+17 Luxury 620 438
+18 Essential 313 142
+19 Essential 224 128

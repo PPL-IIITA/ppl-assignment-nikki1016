@@ -1,0 +1,11 @@
+------Girls-------
+girlname gtype attr intg maintainence_cost 
+gg0 Normal 4 7 1450
+gg1 Desparate 8 6 2229
+gg2 Desparate 10 5 1023
+gg3 Normal 6 3 1516
+gg4 Choosy 10 6 1410
+gg5 Desparate 9 9 2734
+gg6 Normal 2 4 1900
+gg7 Normal 5 2 1224
+gg8 Desparate 10 6 1737
