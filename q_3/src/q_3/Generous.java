@@ -30,6 +30,10 @@ public class Generous extends boys{
      */
     public Generous (int bno){
         super(bno);
+        attractive = rand.nextInt(10);
+        intelligence = rand.nextInt(10);
+        budget  = rand.nextInt(2000) + 1000;
+        min_attractive_req  = rand.nextInt(10); 
     }
     /**
      * the method b_happiness() is to calculate boy's happiness
