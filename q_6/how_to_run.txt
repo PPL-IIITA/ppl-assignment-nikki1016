@@ -1,0 +1,22 @@
+# run
+
+$ git clone https://github.com/PPL-IIITA/ppl-assignment-nikki1016.git
+
+Change to directory:
+
+$ cd ppl-assignment-nikki1016
+
+
+$ cd q_6/src/q_6/
+
+$ javac *.java
+$ cd 
+$ cd ppl-assignment-nikki1016/q_6/build/classes
+$ java q_6.q6_main
+$ javadoc *.java
+
+To see the logs for gifting and committed 
+
+$ cat log.txt
+$ javac *.java
+$ cd ..
