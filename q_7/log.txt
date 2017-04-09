@@ -1,0 +1,120 @@
+Couples are: 
+couples 0 : gg0 bb14 2017-04-10 01:15:10.875
+couples 1 : gg1 bb64 2017-04-10 01:15:10.892
+couples 2 : gg2 bb26 2017-04-10 01:15:10.892
+couples 3 : gg3 bb38 2017-04-10 01:15:10.892
+couples 4 : gg4 bb35 2017-04-10 01:15:10.893
+couples 5 : gg6 bb74 2017-04-10 01:15:10.893
+couples 6 : gg7 bb6 2017-04-10 01:15:10.893
+couples 7 : gg8 bb52 2017-04-10 01:15:10.893
+couples 8 : gg9 bb67 2017-04-10 01:15:10.894
+couples 9 : gg10 bb7 2017-04-10 01:15:10.894
+couples 10 : gg11 bb24 2017-04-10 01:15:10.894
+couples 11 : gg12 bb20 2017-04-10 01:15:10.894
+couples 12 : gg13 bb40 2017-04-10 01:15:10.894
+couples 13 : gg14 bb39 2017-04-10 01:15:10.895
+couples 14 : gg15 bb36 2017-04-10 01:15:10.895
+couples 15 : gg16 bb42 2017-04-10 01:15:10.895
+couples 16 : gg17 bb60 2017-04-10 01:15:10.895
+Gift Exchanges are : 
+bb14 give gift13 of type Essentialof price 300 to gg0 at 2017-04-10 01:15:10.895
+bb14 give gift10 of type Essentialof price 301 to gg0 at 2017-04-10 01:15:10.896
+bb14 give gift0 of type Utilityof price 468 to gg0 at 2017-04-10 01:15:10.896
+bb14 give gift5 of type Utilityof price 480 to gg0 at 2017-04-10 01:15:10.896
+bb14 give gift2 of type Utilityof price 486 to gg0 at 2017-04-10 01:15:10.896
+bb14 give gift14 of type Utilityof price 497 to gg0 at 2017-04-10 01:15:10.896
+bb14 give gift12 of type Utilityof price 499 to gg0 at 2017-04-10 01:15:10.897
+bb14 give gift9 of type Utilityof price 561 to gg0 at 2017-04-10 01:15:10.897
+bb64 give gift13 of type Essentialof price 300 to gg1 at 2017-04-10 01:15:10.897
+bb64 give gift10 of type Essentialof price 301 to gg1 at 2017-04-10 01:15:10.897
+bb64 give gift0 of type Utilityof price 468 to gg1 at 2017-04-10 01:15:10.897
+bb64 give gift5 of type Utilityof price 480 to gg1 at 2017-04-10 01:15:10.898
+bb64 give gift2 of type Utilityof price 486 to gg1 at 2017-04-10 01:15:10.898
+bb64 give gift14 of type Utilityof price 497 to gg1 at 2017-04-10 01:15:10.898
+bb26 give gift13 of type Essentialof price 300 to gg2 at 2017-04-10 01:15:10.898
+bb26 give gift10 of type Essentialof price 301 to gg2 at 2017-04-10 01:15:10.898
+bb26 give gift0 of type Utilityof price 468 to gg2 at 2017-04-10 01:15:10.899
+bb26 give gift5 of type Utilityof price 480 to gg2 at 2017-04-10 01:15:10.899
+bb26 give gift2 of type Utilityof price 486 to gg2 at 2017-04-10 01:15:10.899
+bb26 give gift14 of type Utilityof price 497 to gg2 at 2017-04-10 01:15:10.899
+bb26 give gift12 of type Utilityof price 499 to gg2 at 2017-04-10 01:15:10.899
+bb38 give gift13 of type Essentialof price 300 to gg3 at 2017-04-10 01:15:10.9
+bb38 give gift10 of type Essentialof price 301 to gg3 at 2017-04-10 01:15:10.9
+bb38 give gift0 of type Utilityof price 468 to gg3 at 2017-04-10 01:15:10.9
+bb38 give gift5 of type Utilityof price 480 to gg3 at 2017-04-10 01:15:10.9
+bb38 give gift2 of type Utilityof price 486 to gg3 at 2017-04-10 01:15:10.9
+bb38 give gift14 of type Utilityof price 497 to gg3 at 2017-04-10 01:15:10.901
+bb38 give gift12 of type Utilityof price 499 to gg3 at 2017-04-10 01:15:10.901
+bb38 give gift9 of type Utilityof price 561 to gg3 at 2017-04-10 01:15:10.901
+bb35 give gift13 of type Essentialof price 300 to gg4 at 2017-04-10 01:15:10.901
+bb35 give gift10 of type Essentialof price 301 to gg4 at 2017-04-10 01:15:10.901
+bb35 give gift0 of type Utilityof price 468 to gg4 at 2017-04-10 01:15:10.902
+bb35 give gift5 of type Utilityof price 480 to gg4 at 2017-04-10 01:15:10.902
+bb35 give gift2 of type Utilityof price 486 to gg4 at 2017-04-10 01:15:10.902
+bb35 give gift14 of type Utilityof price 497 to gg4 at 2017-04-10 01:15:10.902
+bb35 give gift12 of type Utilityof price 499 to gg4 at 2017-04-10 01:15:10.902
+bb74 give gift10 of type Essentialof price 301 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift0 of type Utilityof price 468 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift5 of type Utilityof price 480 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift2 of type Utilityof price 486 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift14 of type Utilityof price 497 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift12 of type Utilityof price 499 to gg6 at 2017-04-10 01:15:10.903
+bb74 give gift9 of type Utilityof price 561 to gg6 at 2017-04-10 01:15:10.904
+bb6 give gift13 of type Essentialof price 300 to gg7 at 2017-04-10 01:15:10.904
+bb6 give gift10 of type Essentialof price 301 to gg7 at 2017-04-10 01:15:10.904
+bb6 give gift0 of type Utilityof price 468 to gg7 at 2017-04-10 01:15:10.904
+bb6 give gift5 of type Utilityof price 480 to gg7 at 2017-04-10 01:15:10.904
+bb6 give gift2 of type Utilityof price 486 to gg7 at 2017-04-10 01:15:10.905
+bb6 give gift14 of type Utilityof price 497 to gg7 at 2017-04-10 01:15:10.905
+bb6 give gift12 of type Utilityof price 499 to gg7 at 2017-04-10 01:15:10.905
+bb52 give gift13 of type Essentialof price 300 to gg8 at 2017-04-10 01:15:10.905
+bb52 give gift10 of type Essentialof price 301 to gg8 at 2017-04-10 01:15:10.905
+bb52 give gift0 of type Utilityof price 468 to gg8 at 2017-04-10 01:15:10.906
+bb52 give gift5 of type Utilityof price 480 to gg8 at 2017-04-10 01:15:10.906
+bb52 give gift2 of type Utilityof price 486 to gg8 at 2017-04-10 01:15:10.906
+bb67 give gift13 of type Essentialof price 300 to gg9 at 2017-04-10 01:15:10.906
+bb67 give gift10 of type Essentialof price 301 to gg9 at 2017-04-10 01:15:10.906
+bb67 give gift0 of type Utilityof price 468 to gg9 at 2017-04-10 01:15:10.907
+bb7 give gift10 of type Essentialof price 301 to gg10 at 2017-04-10 01:15:10.907
+bb7 give gift0 of type Utilityof price 468 to gg10 at 2017-04-10 01:15:10.907
+bb7 give gift5 of type Utilityof price 480 to gg10 at 2017-04-10 01:15:10.907
+bb24 give gift10 of type Essentialof price 301 to gg11 at 2017-04-10 01:15:10.908
+bb24 give gift0 of type Utilityof price 468 to gg11 at 2017-04-10 01:15:10.908
+bb24 give gift5 of type Utilityof price 480 to gg11 at 2017-04-10 01:15:10.908
+bb24 give gift2 of type Utilityof price 486 to gg11 at 2017-04-10 01:15:10.908
+bb24 give gift14 of type Utilityof price 497 to gg11 at 2017-04-10 01:15:10.908
+bb24 give gift12 of type Utilityof price 499 to gg11 at 2017-04-10 01:15:10.909
+bb20 give gift13 of type Essentialof price 300 to gg12 at 2017-04-10 01:15:10.909
+bb20 give gift10 of type Essentialof price 301 to gg12 at 2017-04-10 01:15:10.909
+bb20 give gift0 of type Utilityof price 468 to gg12 at 2017-04-10 01:15:10.909
+bb40 give gift10 of type Essentialof price 301 to gg13 at 2017-04-10 01:15:10.909
+bb40 give gift0 of type Utilityof price 468 to gg13 at 2017-04-10 01:15:10.909
+bb40 give gift5 of type Utilityof price 480 to gg13 at 2017-04-10 01:15:10.91
+bb40 give gift2 of type Utilityof price 486 to gg13 at 2017-04-10 01:15:10.91
+bb39 give gift13 of type Essentialof price 300 to gg14 at 2017-04-10 01:15:10.91
+bb39 give gift10 of type Essentialof price 301 to gg14 at 2017-04-10 01:15:10.91
+bb39 give gift0 of type Utilityof price 468 to gg14 at 2017-04-10 01:15:10.91
+bb39 give gift5 of type Utilityof price 480 to gg14 at 2017-04-10 01:15:10.911
+bb39 give gift2 of type Utilityof price 486 to gg14 at 2017-04-10 01:15:10.911
+bb39 give gift14 of type Utilityof price 497 to gg14 at 2017-04-10 01:15:10.911
+bb39 give gift12 of type Utilityof price 499 to gg14 at 2017-04-10 01:15:10.911
+bb36 give gift13 of type Essentialof price 300 to gg15 at 2017-04-10 01:15:10.911
+bb36 give gift10 of type Essentialof price 301 to gg15 at 2017-04-10 01:15:10.912
+bb36 give gift0 of type Utilityof price 468 to gg15 at 2017-04-10 01:15:10.912
+bb36 give gift5 of type Utilityof price 480 to gg15 at 2017-04-10 01:15:10.912
+bb36 give gift2 of type Utilityof price 486 to gg15 at 2017-04-10 01:15:10.912
+bb36 give gift14 of type Utilityof price 497 to gg15 at 2017-04-10 01:15:10.912
+bb36 give gift12 of type Utilityof price 499 to gg15 at 2017-04-10 01:15:10.912
+bb42 give gift10 of type Essentialof price 301 to gg16 at 2017-04-10 01:15:10.913
+bb42 give gift0 of type Utilityof price 468 to gg16 at 2017-04-10 01:15:10.913
+bb42 give gift5 of type Utilityof price 480 to gg16 at 2017-04-10 01:15:10.913
+bb42 give gift2 of type Utilityof price 486 to gg16 at 2017-04-10 01:15:10.913
+bb42 give gift14 of type Utilityof price 497 to gg16 at 2017-04-10 01:15:10.913
+bb42 give gift12 of type Utilityof price 499 to gg16 at 2017-04-10 01:15:10.914
+bb60 give gift13 of type Essentialof price 300 to gg17 at 2017-04-10 01:15:10.914
+bb60 give gift10 of type Essentialof price 301 to gg17 at 2017-04-10 01:15:10.915
+bb60 give gift0 of type Utilityof price 468 to gg17 at 2017-04-10 01:15:10.915
+bb60 give gift5 of type Utilityof price 480 to gg17 at 2017-04-10 01:15:10.915
+bb60 give gift2 of type Utilityof price 486 to gg17 at 2017-04-10 01:15:10.915
+bb60 give gift14 of type Utilityof price 497 to gg17 at 2017-04-10 01:15:10.915
+bb60 give gift12 of type Utilityof price 499 to gg17 at 2017-04-10 01:15:10.915
