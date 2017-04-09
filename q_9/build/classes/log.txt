@@ -1,0 +1,126 @@
+Couples are: 
+couples 0 : gg3 bb12 2017-04-10 02:56:25.392
+couples 1 : gg5 bb31 2017-04-10 02:56:25.414
+couples 2 : gg10 bb14 2017-04-10 02:56:25.414
+couples 3 : gg7 bb40 2017-04-10 02:56:25.415
+couples 4 : gg0 bb30 2017-04-10 02:56:25.415
+couples 5 : gg1 bb10 2017-04-10 02:56:25.415
+couples 6 : gg6 bb21 2017-04-10 02:56:25.416
+couples 7 : gg8 bb19 2017-04-10 02:56:25.416
+couples 8 : gg9 bb22 2017-04-10 02:56:25.416
+couples 9 : gg4 bb11 2017-04-10 02:56:25.417
+Gift Exchanges are : 
+bb12 give gift3 of type Essential of price 150 to gg3 at 2017-04-10 02:56:25.419
+bb12 give gift0 of type Essential of price 182 to gg3 at 2017-04-10 02:56:25.419
+bb12 give gift2 of type Essential of price 183 to gg3 at 2017-04-10 02:56:25.419
+bb12 give gift26 of type Essential of price 213 to gg3 at 2017-04-10 02:56:25.419
+bb12 give gift20 of type Essential of price 217 to gg3 at 2017-04-10 02:56:25.42
+bb12 give gift12 of type Essential of price 236 to gg3 at 2017-04-10 02:56:25.42
+bb12 give gift14 of type Essential of price 263 to gg3 at 2017-04-10 02:56:25.42
+bb12 give gift28 of type Essential of price 289 to gg3 at 2017-04-10 02:56:25.42
+bb12 give gift30 of type Essential of price 325 to gg3 at 2017-04-10 02:56:25.42
+bb12 give gift10 of type Utility of price 452 to gg3 at 2017-04-10 02:56:25.421
+bb12 give gift6 of type Utility of price 465 to gg3 at 2017-04-10 02:56:25.421
+bb12 give gift7 of type Utility of price 531 to gg3 at 2017-04-10 02:56:25.421
+bb31 give gift3 of type Essential of price 150 to gg5 at 2017-04-10 02:56:25.421
+bb31 give gift0 of type Essential of price 182 to gg5 at 2017-04-10 02:56:25.422
+bb31 give gift2 of type Essential of price 183 to gg5 at 2017-04-10 02:56:25.422
+bb31 give gift26 of type Essential of price 213 to gg5 at 2017-04-10 02:56:25.422
+bb31 give gift20 of type Essential of price 217 to gg5 at 2017-04-10 02:56:25.422
+bb31 give gift12 of type Essential of price 236 to gg5 at 2017-04-10 02:56:25.422
+bb31 give gift14 of type Essential of price 263 to gg5 at 2017-04-10 02:56:25.423
+bb31 give gift28 of type Essential of price 289 to gg5 at 2017-04-10 02:56:25.423
+bb31 give gift30 of type Essential of price 325 to gg5 at 2017-04-10 02:56:25.423
+bb31 give gift10 of type Utility of price 452 to gg5 at 2017-04-10 02:56:25.423
+bb31 give gift6 of type Utility of price 465 to gg5 at 2017-04-10 02:56:25.423
+bb14 give gift3 of type Essential of price 150 to gg10 at 2017-04-10 02:56:25.424
+bb14 give gift0 of type Essential of price 182 to gg10 at 2017-04-10 02:56:25.424
+bb14 give gift2 of type Essential of price 183 to gg10 at 2017-04-10 02:56:25.424
+bb14 give gift26 of type Essential of price 213 to gg10 at 2017-04-10 02:56:25.424
+bb14 give gift20 of type Essential of price 217 to gg10 at 2017-04-10 02:56:25.424
+bb14 give gift12 of type Essential of price 236 to gg10 at 2017-04-10 02:56:25.425
+bb14 give gift14 of type Essential of price 263 to gg10 at 2017-04-10 02:56:25.425
+bb14 give gift28 of type Essential of price 289 to gg10 at 2017-04-10 02:56:25.425
+bb14 give gift30 of type Essential of price 325 to gg10 at 2017-04-10 02:56:25.425
+bb14 give gift10 of type Utility of price 452 to gg10 at 2017-04-10 02:56:25.425
+bb14 give gift6 of type Utility of price 465 to gg10 at 2017-04-10 02:56:25.426
+bb14 give gift7 of type Utility of price 531 to gg10 at 2017-04-10 02:56:25.426
+bb40 give gift3 of type Essential of price 150 to gg7 at 2017-04-10 02:56:25.426
+bb40 give gift0 of type Essential of price 182 to gg7 at 2017-04-10 02:56:25.426
+bb40 give gift2 of type Essential of price 183 to gg7 at 2017-04-10 02:56:25.427
+bb40 give gift26 of type Essential of price 213 to gg7 at 2017-04-10 02:56:25.427
+bb40 give gift20 of type Essential of price 217 to gg7 at 2017-04-10 02:56:25.427
+bb40 give gift12 of type Essential of price 236 to gg7 at 2017-04-10 02:56:25.427
+bb40 give gift14 of type Essential of price 263 to gg7 at 2017-04-10 02:56:25.427
+bb40 give gift28 of type Essential of price 289 to gg7 at 2017-04-10 02:56:25.428
+bb40 give gift30 of type Essential of price 325 to gg7 at 2017-04-10 02:56:25.428
+bb40 give gift10 of type Utility of price 452 to gg7 at 2017-04-10 02:56:25.428
+bb40 give gift6 of type Utility of price 465 to gg7 at 2017-04-10 02:56:25.428
+bb40 give gift7 of type Utility of price 531 to gg7 at 2017-04-10 02:56:25.428
+bb30 give gift3 of type Essential of price 150 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift0 of type Essential of price 182 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift2 of type Essential of price 183 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift26 of type Essential of price 213 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift20 of type Essential of price 217 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift12 of type Essential of price 236 to gg0 at 2017-04-10 02:56:25.429
+bb30 give gift14 of type Essential of price 263 to gg0 at 2017-04-10 02:56:25.43
+bb30 give gift28 of type Essential of price 289 to gg0 at 2017-04-10 02:56:25.43
+bb30 give gift30 of type Essential of price 325 to gg0 at 2017-04-10 02:56:25.43
+bb30 give gift10 of type Utility of price 452 to gg0 at 2017-04-10 02:56:25.43
+bb30 give gift6 of type Utility of price 465 to gg0 at 2017-04-10 02:56:25.43
+bb30 give gift7 of type Utility of price 531 to gg0 at 2017-04-10 02:56:25.43
+bb10 give gift3 of type Essential of price 150 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift0 of type Essential of price 182 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift2 of type Essential of price 183 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift26 of type Essential of price 213 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift20 of type Essential of price 217 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift12 of type Essential of price 236 to gg1 at 2017-04-10 02:56:25.431
+bb10 give gift14 of type Essential of price 263 to gg1 at 2017-04-10 02:56:25.432
+bb10 give gift28 of type Essential of price 289 to gg1 at 2017-04-10 02:56:25.432
+bb10 give gift30 of type Essential of price 325 to gg1 at 2017-04-10 02:56:25.432
+bb10 give gift10 of type Utility of price 452 to gg1 at 2017-04-10 02:56:25.432
+bb10 give gift6 of type Utility of price 465 to gg1 at 2017-04-10 02:56:25.432
+bb21 give gift3 of type Essential of price 150 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift0 of type Essential of price 182 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift2 of type Essential of price 183 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift26 of type Essential of price 213 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift20 of type Essential of price 217 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift12 of type Essential of price 236 to gg6 at 2017-04-10 02:56:25.433
+bb21 give gift14 of type Essential of price 263 to gg6 at 2017-04-10 02:56:25.434
+bb21 give gift28 of type Essential of price 289 to gg6 at 2017-04-10 02:56:25.434
+bb21 give gift30 of type Essential of price 325 to gg6 at 2017-04-10 02:56:25.434
+bb21 give gift10 of type Utility of price 452 to gg6 at 2017-04-10 02:56:25.434
+bb21 give gift6 of type Utility of price 465 to gg6 at 2017-04-10 02:56:25.435
+bb19 give gift3 of type Essential of price 150 to gg8 at 2017-04-10 02:56:25.435
+bb19 give gift0 of type Essential of price 182 to gg8 at 2017-04-10 02:56:25.435
+bb19 give gift2 of type Essential of price 183 to gg8 at 2017-04-10 02:56:25.435
+bb19 give gift26 of type Essential of price 213 to gg8 at 2017-04-10 02:56:25.435
+bb19 give gift20 of type Essential of price 217 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift12 of type Essential of price 236 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift14 of type Essential of price 263 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift28 of type Essential of price 289 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift30 of type Essential of price 325 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift10 of type Utility of price 452 to gg8 at 2017-04-10 02:56:25.436
+bb19 give gift6 of type Utility of price 465 to gg8 at 2017-04-10 02:56:25.436
+bb22 give gift3 of type Essential of price 150 to gg9 at 2017-04-10 02:56:25.437
+bb22 give gift0 of type Essential of price 182 to gg9 at 2017-04-10 02:56:25.437
+bb22 give gift2 of type Essential of price 183 to gg9 at 2017-04-10 02:56:25.437
+bb22 give gift26 of type Essential of price 213 to gg9 at 2017-04-10 02:56:25.438
+bb22 give gift20 of type Essential of price 217 to gg9 at 2017-04-10 02:56:25.438
+bb22 give gift12 of type Essential of price 236 to gg9 at 2017-04-10 02:56:25.438
+bb22 give gift14 of type Essential of price 263 to gg9 at 2017-04-10 02:56:25.439
+bb22 give gift28 of type Essential of price 289 to gg9 at 2017-04-10 02:56:25.439
+bb22 give gift30 of type Essential of price 325 to gg9 at 2017-04-10 02:56:25.439
+bb22 give gift10 of type Utility of price 452 to gg9 at 2017-04-10 02:56:25.439
+bb22 give gift6 of type Utility of price 465 to gg9 at 2017-04-10 02:56:25.44
+bb11 give gift3 of type Essential of price 150 to gg4 at 2017-04-10 02:56:25.44
+bb11 give gift0 of type Essential of price 182 to gg4 at 2017-04-10 02:56:25.44
+bb11 give gift2 of type Essential of price 183 to gg4 at 2017-04-10 02:56:25.44
+bb11 give gift26 of type Essential of price 213 to gg4 at 2017-04-10 02:56:25.44
+bb11 give gift20 of type Essential of price 217 to gg4 at 2017-04-10 02:56:25.44
+bb11 give gift12 of type Essential of price 236 to gg4 at 2017-04-10 02:56:25.441
+bb11 give gift14 of type Essential of price 263 to gg4 at 2017-04-10 02:56:25.441
+bb11 give gift28 of type Essential of price 289 to gg4 at 2017-04-10 02:56:25.441
+bb11 give gift30 of type Essential of price 325 to gg4 at 2017-04-10 02:56:25.441
+bb11 give gift10 of type Utility of price 452 to gg4 at 2017-04-10 02:56:25.441
+bb11 give gift6 of type Utility of price 465 to gg4 at 2017-04-10 02:56:25.441
