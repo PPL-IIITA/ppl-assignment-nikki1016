@@ -5,7 +5,32 @@ ppl-assignment-nikki1016 created by GitHub Classroom
 
 # ppl-assignment-Nikita Jain RIT2015020
 
-# Command for Terminal in Linux (Ubuntu Gnome 16.04 LTS 64-bit Java SE 8):
+  # Contents
+
+Build details
+Deployment and Testing
+Documentation
+Class Diagrams
+Build Details
+
+# Developed and Tested on:
+
+Netbeans Version: NetBeans IDE 8.1 
+Java: 1.8.0_101; Java HotSpot(TM) 64-Bit Server VM 25.101-b13
+Runtime: Java(TM) SE Runtime Environment 1.8.0_101-b13
+System: Ubuntu Gnome 16.04 LTS 64-bit
+
+
+# Deployment and Testing
+
+$ git clone https://github.com/PPL-IIITA/ppl-assignment-nikki1016.git
+
+Change to directory:
+
+$ cd ppl-assignment-nikki1016
+
+# Command for Terminal in Linux  for q1 and q2:
+# (Ubuntu Gnome 16.04 LTS 64-bit Java SE 8):
 
   $cd NetBeansProjects/PPLAssignment/build/classes
   
@@ -16,8 +41,33 @@ ppl-assignment-nikki1016 created by GitHub Classroom
 # For Windows :
     build on NetBeans IDE 8.1
     
-   #  Update
-For next questions from q3 to q10,how to run and generate documentation is described in their respective folders
+# Documentation
 
-# Class Diagram
-Class Diagram of each question is also there in each folders
+Documentation for each question is available :
+
+q_3
+q_4
+q_5
+q_6
+q_7
+q_8
+q_9
+q_10
+
+# Class Diagrams
+
+Class Diagrams are available here:
+
+q_3
+q_4
+q_5
+q_6
+q_7
+q_8
+q_9
+q_10 
+
+# Tools Used
+
+Documentation done using javadocs.
+Class diagram generated using EasyUML plugins (NetBeans 8.1)
