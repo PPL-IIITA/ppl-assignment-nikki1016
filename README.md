@@ -13,4 +13,10 @@ Command for Terminal in Linux:
   For q2:     $java pplassignment.q2_main
  
   For Windows :
-    build on NetBeans IDE 8.2
+    build on NetBeans IDE 8.1
+    
+    # Update
+For next questions from q3 to q10,how to run and generate documentation is described in their respective folders
+
+# Class Diagram
+Class Diagram of each question is also there in each folders
