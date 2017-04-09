@@ -38,7 +38,7 @@ $ cd ppl-assignment-nikki1016
   
   For q2:     $java pplassignment.q2_main
  
- #### Command for Terminal in Linux  for all other questions is provided in how_to_run.txt in each ques
+ #### Command for Terminal in Linux  for all other questions is provided in how_to_run.txt in each folder of seperate questions
  
 #### For Windows :
     build on NetBeans IDE 8.1
