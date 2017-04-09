@@ -4,12 +4,11 @@
  * and open the template in the editor.
  */
 package q_4;
-
 /**
- *
- * @author nikita
- */
+     * Generous class subclass of boys
+        * @see boys
 
+    */
 public class Generous extends boys{
     /**
      *Boys class containing :

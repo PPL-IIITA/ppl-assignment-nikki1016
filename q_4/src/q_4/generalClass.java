@@ -12,9 +12,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
-
-
-
+/**
+ * 
+ * general class to generate girls , boys and gifts randomly
+ */
 public class generalClass  {
        /** 
        *    general class to generate girls , boys and gifts randomly

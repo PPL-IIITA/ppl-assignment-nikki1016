@@ -6,10 +6,9 @@
 package q_4;
 
 import java.io.FileNotFoundException;
-
 /**
  *
- * @author nikita
+ *Q4 main class 
  */
 public class q4_main {
     /**

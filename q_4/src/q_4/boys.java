@@ -6,10 +6,10 @@
 package q_4;
 
 import java.util.Random;
-
 /**
  *
- * @author nikita
+ * abstract Boys class 
+* @see boys
  */
 
 abstract public class boys {
