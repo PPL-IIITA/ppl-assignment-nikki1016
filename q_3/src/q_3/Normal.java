@@ -6,9 +6,11 @@
 package q_3;
 
 /**
- *
- * @author nikita
+ * 
+    *The Normal girl subclass of girls
+    *  @see girls
  */
+
 
 public class Normal extends girls{
      /**

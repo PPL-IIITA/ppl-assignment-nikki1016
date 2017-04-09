@@ -6,8 +6,11 @@
 package q_3;
 
 import java.sql.Timestamp;
-import java.util.Calendar;
-
+/**
+ * 
+ * Couples Class 
+ * @see couples
+*/
 public class couples {
     
 /**

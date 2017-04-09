@@ -7,7 +7,9 @@ package q_3;
 
 /**
  *
- * @author nikita
+ * utility Gifts subclass of gifts
+ * @see gifts
+ * 
  */
 public class Utility extends gifts{
     /**

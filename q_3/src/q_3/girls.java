@@ -11,6 +11,11 @@ import java.util.Random;
 
 
 
+/**
+ *
+     * abstract Girls class 
+     * @see girls
+ */
 abstract public class girls {
     /**
      *Girls class containing :

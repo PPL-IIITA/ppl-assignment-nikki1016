@@ -14,7 +14,10 @@ import java.util.Random;
 
 
 
-
+/**
+ * 
+ * general class to generate girls , boys and gifts randomly
+ */
 public class generalClass  {
        /** 
        *    general class to generate girls , boys and gifts randomnly

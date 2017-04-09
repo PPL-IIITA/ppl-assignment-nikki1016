@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 package q_3;
-
 /**
- *
- * @author nikita
+ *Essential gifts subclass gifts
+ * @see gifts
  */
 public class Essential extends gifts{
     /**

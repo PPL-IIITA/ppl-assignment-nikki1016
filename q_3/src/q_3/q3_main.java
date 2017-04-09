@@ -8,9 +8,10 @@ package q_3;
 import java.io.FileNotFoundException;
 
 
+
 /**
  *
- * @author nikita
+ *Q3 main class 
  */
 public class q3_main {
 

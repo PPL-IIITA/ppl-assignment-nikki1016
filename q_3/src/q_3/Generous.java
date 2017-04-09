@@ -6,10 +6,10 @@
 package q_3;
 
 /**
- *
- * @author nikita
- */
+     * Generous class subclass of boys
+        * @see boys
 
+    */
 public class Generous extends boys{
     /**
      *Boys class containing :

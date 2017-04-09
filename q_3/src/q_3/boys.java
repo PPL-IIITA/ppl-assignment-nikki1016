@@ -6,12 +6,11 @@
 package q_3;
 
 import java.util.Random;
-
 /**
  *
- * @author nikita
+ * abstract Boys class 
+* @see boys
  */
-
 abstract public class boys {
     /**
      *Boys class containing :
