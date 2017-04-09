@@ -8,12 +8,12 @@ $ cd ppl-assignment-nikki1016
 
 
 $ cd q_5/src/q_5/
+$ javadoc *.java
 
 $ javac *.java
 $ cd 
 $ cd ppl-assignment-nikki1016/q_5/build/classes
 $ java q_5.q5_main
-$ javadoc *.java
 
 To see the logs for gifting and committed 
 
