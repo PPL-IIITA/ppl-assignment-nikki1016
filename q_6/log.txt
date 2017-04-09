@@ -1,0 +1,74 @@
+Couples are: 
+couples 0 : gg0 bb4 2017-04-10 00:41:28.359
+couples 1 : gg3 bb13 2017-04-10 00:41:28.377
+couples 2 : gg2 bb1 2017-04-10 00:41:28.377
+couples 3 : gg5 bb12 2017-04-10 00:41:28.378
+couples 4 : gg6 bb9 2017-04-10 00:41:28.378
+Gift Exchanges are : 
+bb4 give gift17 of type Essentialof price 200 to gg0 at 2017-04-10 00:41:28.378
+bb4 give gift8 of type Essentialof price 209 to gg0 at 2017-04-10 00:41:28.378
+bb4 give gift18 of type Essentialof price 210 to gg0 at 2017-04-10 00:41:28.379
+bb4 give gift1 of type Essentialof price 255 to gg0 at 2017-04-10 00:41:28.379
+bb4 give gift25 of type Essentialof price 290 to gg0 at 2017-04-10 00:41:28.379
+bb4 give gift24 of type Essentialof price 320 to gg0 at 2017-04-10 00:41:28.38
+bb4 give gift28 of type Essentialof price 323 to gg0 at 2017-04-10 00:41:28.38
+bb13 give gift17 of type Essentialof price 200 to gg3 at 2017-04-10 00:41:28.38
+bb13 give gift8 of type Essentialof price 209 to gg3 at 2017-04-10 00:41:28.38
+bb13 give gift18 of type Essentialof price 210 to gg3 at 2017-04-10 00:41:28.381
+bb13 give gift1 of type Essentialof price 255 to gg3 at 2017-04-10 00:41:28.381
+bb13 give gift25 of type Essentialof price 290 to gg3 at 2017-04-10 00:41:28.381
+bb13 give gift24 of type Essentialof price 320 to gg3 at 2017-04-10 00:41:28.382
+bb13 give gift28 of type Essentialof price 323 to gg3 at 2017-04-10 00:41:28.382
+bb13 give gift0 of type Essentialof price 327 to gg3 at 2017-04-10 00:41:28.382
+bb13 give gift5 of type Essentialof price 335 to gg3 at 2017-04-10 00:41:28.382
+bb13 give gift19 of type Utilityof price 467 to gg3 at 2017-04-10 00:41:28.382
+bb13 give gift29 of type Utilityof price 467 to gg3 at 2017-04-10 00:41:28.383
+bb1 give gift8 of type Essentialof price 209 to gg2 at 2017-04-10 00:41:28.383
+bb1 give gift18 of type Essentialof price 210 to gg2 at 2017-04-10 00:41:28.383
+bb1 give gift1 of type Essentialof price 255 to gg2 at 2017-04-10 00:41:28.384
+bb1 give gift25 of type Essentialof price 290 to gg2 at 2017-04-10 00:41:28.384
+bb1 give gift24 of type Essentialof price 320 to gg2 at 2017-04-10 00:41:28.384
+bb1 give gift28 of type Essentialof price 323 to gg2 at 2017-04-10 00:41:28.384
+bb1 give gift0 of type Essentialof price 327 to gg2 at 2017-04-10 00:41:28.384
+bb1 give gift5 of type Essentialof price 335 to gg2 at 2017-04-10 00:41:28.385
+bb1 give gift19 of type Utilityof price 467 to gg2 at 2017-04-10 00:41:28.385
+bb1 give gift29 of type Utilityof price 467 to gg2 at 2017-04-10 00:41:28.385
+bb12 give gift8 of type Essentialof price 209 to gg5 at 2017-04-10 00:41:28.385
+bb12 give gift18 of type Essentialof price 210 to gg5 at 2017-04-10 00:41:28.385
+bb12 give gift1 of type Essentialof price 255 to gg5 at 2017-04-10 00:41:28.386
+bb12 give gift25 of type Essentialof price 290 to gg5 at 2017-04-10 00:41:28.386
+bb12 give gift24 of type Essentialof price 320 to gg5 at 2017-04-10 00:41:28.386
+bb12 give gift28 of type Essentialof price 323 to gg5 at 2017-04-10 00:41:28.386
+bb12 give gift0 of type Essentialof price 327 to gg5 at 2017-04-10 00:41:28.386
+bb12 give gift5 of type Essentialof price 335 to gg5 at 2017-04-10 00:41:28.387
+bb12 give gift19 of type Utilityof price 467 to gg5 at 2017-04-10 00:41:28.387
+bb9 give gift8 of type Essentialof price 209 to gg6 at 2017-04-10 00:41:28.388
+bb9 give gift18 of type Essentialof price 210 to gg6 at 2017-04-10 00:41:28.388
+bb9 give gift1 of type Essentialof price 255 to gg6 at 2017-04-10 00:41:28.388
+bb9 give gift25 of type Essentialof price 290 to gg6 at 2017-04-10 00:41:28.388
+bb9 give gift24 of type Essentialof price 320 to gg6 at 2017-04-10 00:41:28.389
+bb9 give gift28 of type Essentialof price 323 to gg6 at 2017-04-10 00:41:28.389
+bb9 give gift0 of type Essentialof price 327 to gg6 at 2017-04-10 00:41:28.389
+bb9 give gift5 of type Essentialof price 335 to gg6 at 2017-04-10 00:41:28.389
+bb9 give gift19 of type Utilityof price 467 to gg6 at 2017-04-10 00:41:28.389
+Least 3 Happiest Couple
+Couple: bb13 and gg3 breaks up at 2017-04-11 00:41:28.39
+gg3 committed to bb2 at 2017-04-11 00:41:28.39
+Couple: bb4 and gg0 breaks up at 2017-04-11 00:41:28.39
+gg0 committed to bb3 at 2017-04-11 00:41:28.39
+Couple: bb1 and gg2 breaks up at 2017-04-11 00:41:28.39
+gg2 committed to bb4 at 2017-04-11 00:41:28.39
+Least 3 Happiest Couple
+Couple: bb2 and gg3 breaks up at 2017-04-13 00:41:28.418
+gg3 committed to bb1 at 2017-04-13 00:41:28.418
+Couple: bb3 and gg0 breaks up at 2017-04-13 00:41:28.418
+gg0 committed to bb2 at 2017-04-13 00:41:28.418
+Couple: bb4 and gg2 breaks up at 2017-04-13 00:41:28.418
+gg2 committed to bb10 at 2017-04-13 00:41:28.418
+Least 3 Happiest Couple
+Couple: bb1 and gg3 breaks up at 2017-04-16 00:41:28.419
+gg3 committed to bb4 at 2017-04-16 00:41:28.419
+Couple: bb2 and gg0 breaks up at 2017-04-16 00:41:28.419
+gg0 committed to bb1 at 2017-04-16 00:41:28.419
+Couple: bb10 and gg2 breaks up at 2017-04-16 00:41:28.419
+gg2 committed to bb6 at 2017-04-16 00:41:28.419
