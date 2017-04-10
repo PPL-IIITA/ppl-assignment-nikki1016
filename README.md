@@ -114,7 +114,7 @@ q_7  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_7/dist/
 
 Class Diagrams are available here:
 
-q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_10/q_10_CD.pdf
+q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_3/q_3_CD.pdf
 
 q_4  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_4/q_4_CD.pdf
 
