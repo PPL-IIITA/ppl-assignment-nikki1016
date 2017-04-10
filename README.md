@@ -67,16 +67,23 @@ q_10
 ## Class Diagrams
 
 Class Diagrams are available here:
-```
-q_3
-q_4
-q_5
-q_6
-q_7
-q_8
-q_9
-q_10 
-```
+
+q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_10/q_10_CD.pdf
+
+q_4  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_4/q_4_CD.pdf
+
+q_5  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_5/q_5_CD.pdf
+
+q_6  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_6/q_6_CD.pdf
+
+q_7  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_7/q_7_CD.pdf
+
+q_8   https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_8/q_8_CD.pdf
+
+q_9   https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_9/q_9_CD.pdf
+ 
+q_10  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/master/q_10/q_10_CD.pdf
+
 # Tools Used
 ```
 Documentation done using javadocs.
