@@ -47,9 +47,9 @@ $ cd ppl-assignment-nikki1016
 ## Documentation
 
 Documentation for each question is available :
-```
-q_3
-q_4
+
+q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_3/dist/javadoc
+q_4  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_4/dist/javadoc
 q_5
 q_6
 q_7
