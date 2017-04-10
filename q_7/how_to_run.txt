@@ -12,8 +12,7 @@ $ cd q_7/src/q_7/
 $ javac *.java
 $ javadoc *.java
 
-$ cd 
-$ cd ppl-assignment-nikki1016/q_7/build/classes
+$ cd ..
 $ java q_7.q7_main
 
 To see the logs for gifting and committed 
