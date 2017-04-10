@@ -47,6 +47,55 @@ $ cd ppl-assignment-nikki1016
 ## Documentation
 
 Documentation for each question is available :
+generate documentation using command:
+For q3 : 
+
+$ cd ppl-assignment-nikki1016/q_3/src/q_3
+
+$ javadoc *.java
+
+For q4:
+
+$ cd ppl-assignment-nikki1016/q_4/src/q_4
+
+$ javadoc *.java
+
+For q5:
+
+$ cd ppl-assignment-nikki1016/q_5/src/q_5
+
+$ javadoc *.java
+
+For q6:
+
+$ cd ppl-assignment-nikki1016/q_6/src/q_6
+
+$ javadoc *.java
+
+For q7:
+
+$ cd ppl-assignment-nikki1016/q_7/src/q_7
+
+$ javadoc *.java
+
+For q8:
+
+$ cd ppl-assignment-nikki1016/q_8/src/q_8
+
+$ javadoc *.java
+
+For q9:
+
+$ cd ppl-assignment-nikki1016/q_9/src/q_9
+
+$ javadoc *.java
+
+For q10:
+
+$ cd ppl-assignment-nikki1016/q_10/src/q_10
+
+$ javadoc *.java
+
 
 q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_3/dist/javadoc
 
@@ -58,11 +107,6 @@ q_6 https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_6/dist/j
 
 q_7  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_7/dist/javadoc
 
-q_8
-
-q_9
-
-q_10
 
 ## Class Diagrams
 
