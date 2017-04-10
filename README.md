@@ -46,8 +46,10 @@ $ cd ppl-assignment-nikki1016
     
 ## Documentation
 
-Documentation for each question is available :
+#### Documentation for each question is available :
+
 generate documentation using command:
+
 For q3 : 
 
 $ cd ppl-assignment-nikki1016/q_3/src/q_3
