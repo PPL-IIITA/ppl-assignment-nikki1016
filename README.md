@@ -49,14 +49,21 @@ $ cd ppl-assignment-nikki1016
 Documentation for each question is available :
 
 q_3  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_3/dist/javadoc
+
 q_4  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_4/dist/javadoc
-q_5
-q_6
-q_7
+
+q_5   https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_5/dist/javadoc
+
+q_6 https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_6/dist/javadoc
+
+q_7  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/tree/master/q_7/dist/javadoc
+
 q_8
+
 q_9
+
 q_10
-```
+
 ## Class Diagrams
 
 Class Diagrams are available here:
