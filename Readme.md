@@ -1,6 +1,5 @@
-# Exception and Event Handling
-# Q 11 and Q 12
-### please ignore the previous submission by me (@samnik)
+# Exception Handling
+# Q 11 
 
 # ppl-assignment-nikki1016
 ppl-assignment-nikki1016 created by GitHub Classroom
@@ -35,6 +34,9 @@ $ cd ppl-assignment-nikki1016
  
  #### Command for Terminal in Linux  for all other questions is provided in how_to_run.txt in each folder of seperate questions
  
+ https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/nikki1016-patch-1/q_11/how_to_run.txt
+ 
+ 
 #### For Windows :
     build on NetBeans IDE 8.1
     
@@ -50,12 +52,17 @@ $ cd ppl-assignment-nikki1016/q_11/src/
 
 $ javadoc q_11/*.java IllegealException/.*java
 
+or
+
+q_11  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/nikki1016-patch-1/q_11/src/index-all.html
 
 ## Class Diagrams
 
 Class Diagrams are available here:
 
-q_11 
+q_11  https://github.com/PPL-IIITA/ppl-assignment-nikki1016/blob/nikki1016-patch-1/q_10/q_10_CD.pdf
+
+
 # Tools Used
 ```
 Documentation done using javadocs.
