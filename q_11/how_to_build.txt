@@ -1,0 +1,16 @@
+Software used: apache-ant-1.10.1
+OS used: Ubuntu 16.04 
+
+The project can be built using ANT on terminal.
+If not installed, install using : sudo apt install ant
+
+On terminal, change the current directory using:
+
+$ cd ppl-assignment-nikki1016
+
+$ cd q_11
+
+After changing the current working directory ,
+Just type "ant" in the command prompt.
+
+The build.xml file is given inside the folder q_11. 
