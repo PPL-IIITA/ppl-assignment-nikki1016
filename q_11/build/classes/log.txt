@@ -1,0 +1,447 @@
+Couples are: 
+couples 0 : gg0 bb2 2017-04-19 02:12:08.446
+couples 1 : gg1 bb9 2017-04-19 02:12:08.447
+couples 2 : gg2 bb7 2017-04-19 02:12:08.447
+couples 3 : gg4 bb22 2017-04-19 02:12:08.449
+couples 4 : gg6 bb30 2017-04-19 02:12:08.451
+couples 5 : gg7 bb12 2017-04-19 02:12:08.451
+couples 6 : gg8 bb1 2017-04-19 02:12:08.451
+couples 7 : gg9 bb17 2017-04-19 02:12:08.451
+couples 8 : gg11 bb0 2017-04-19 02:12:08.453
+couples 9 : gg12 bb28 2017-04-19 02:12:08.453
+couples 10 : gg13 bb16 2017-04-19 02:12:08.454
+couples 11 : gg15 bb6 2017-04-19 02:12:08.455
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.459
+bb2 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.459
+bb2 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.459
+bb2 give gift23 of type Luxuryof price 661 to gg0 at 2017-04-19 02:12:08.46
+bb2 give gift9 of type Luxuryof price 650 to gg0 at 2017-04-19 02:12:08.46
+bb9 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.474
+bb9 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.474
+bb9 give gift6 of type Luxuryof price 675 to gg1 at 2017-04-19 02:12:08.474
+bb7 give gift3 of type Luxuryof price 715 to gg2 at 2017-04-19 02:12:08.476
+bb7 give gift18 of type Luxuryof price 699 to gg2 at 2017-04-19 02:12:08.477
+bb7 give gift6 of type Luxuryof price 675 to gg2 at 2017-04-19 02:12:08.477
+bb7 give gift23 of type Luxuryof price 661 to gg2 at 2017-04-19 02:12:08.477
+bb7 give gift9 of type Luxuryof price 650 to gg2 at 2017-04-19 02:12:08.477
+bb22 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.479
+bb22 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.479
+bb22 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.48
+bb22 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.48
+bb30 give gift3 of type Luxuryof price 715 to gg6 at 2017-04-19 02:12:08.482
+bb30 give gift18 of type Luxuryof price 699 to gg6 at 2017-04-19 02:12:08.482
+bb30 give gift6 of type Luxuryof price 675 to gg6 at 2017-04-19 02:12:08.482
+bb30 give gift23 of type Luxuryof price 661 to gg6 at 2017-04-19 02:12:08.482
+bb30 give gift9 of type Luxuryof price 650 to gg6 at 2017-04-19 02:12:08.483
+bb12 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.485
+bb12 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.485
+bb12 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.485
+bb12 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.485
+bb1 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.487
+bb1 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.487
+bb17 give gift3 of type Luxuryof price 715 to gg9 at 2017-04-19 02:12:08.489
+bb17 give gift18 of type Luxuryof price 699 to gg9 at 2017-04-19 02:12:08.489
+bb17 give gift6 of type Luxuryof price 675 to gg9 at 2017-04-19 02:12:08.489
+bb17 give gift23 of type Luxuryof price 661 to gg9 at 2017-04-19 02:12:08.489
+bb17 give gift9 of type Luxuryof price 650 to gg9 at 2017-04-19 02:12:08.49
+bb0 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.491
+bb0 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.492
+bb0 give gift6 of type Luxuryof price 675 to gg11 at 2017-04-19 02:12:08.492
+bb16 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.496
+bb16 give gift18 of type Luxuryof price 699 to gg13 at 2017-04-19 02:12:08.496
+bb16 give gift6 of type Luxuryof price 675 to gg13 at 2017-04-19 02:12:08.496
+bb6 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.498
+Least 8 Happiest Couple
+Couple: bb7 and gg2 breaks up at 2017-04-21 02:12:08.505
+Couple: bb0 and gg11 breaks up at 2017-04-21 02:12:08.505
+gg11 committed to bb3 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb3 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.509
+bb3 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.509
+Couple: bb2 and gg0 breaks up at 2017-04-21 02:12:08.505
+gg0 committed to bb0 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.511
+bb0 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.511
+bb0 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.511
+Couple: bb1 and gg8 breaks up at 2017-04-21 02:12:08.505
+gg8 committed to bb2 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.513
+bb2 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.514
+bb2 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.514
+bb2 give gift23 of type Luxuryof price 661 to gg8 at 2017-04-19 02:12:08.514
+bb2 give gift9 of type Luxuryof price 650 to gg8 at 2017-04-19 02:12:08.514
+Couple: bb9 and gg1 breaks up at 2017-04-21 02:12:08.505
+gg1 committed to bb1 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.516
+bb1 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.548
+Couple: bb12 and gg7 breaks up at 2017-04-21 02:12:08.505
+gg7 committed to bb7 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.55
+bb7 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.55
+bb7 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.55
+bb7 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.55
+bb7 give gift9 of type Luxuryof price 650 to gg7 at 2017-04-19 02:12:08.55
+Couple: bb22 and gg4 breaks up at 2017-04-21 02:12:08.505
+gg4 committed to bb12 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.553
+bb12 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.553
+bb12 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.553
+bb12 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.553
+Couple: bb30 and gg6 breaks up at 2017-04-21 02:12:08.505
+gg6 committed to bb15 at 2017-04-21 02:12:08.505
+Gift Exchanges are : 
+Least 8 Happiest Couple
+Couple: bb0 and gg0 breaks up at 2017-04-22 02:12:08.557
+gg0 committed to bb9 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb9 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.557
+bb9 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.557
+bb9 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.558
+Couple: bb2 and gg8 breaks up at 2017-04-22 02:12:08.557
+gg8 committed to bb0 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.56
+bb0 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.56
+bb0 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.56
+Couple: bb1 and gg1 breaks up at 2017-04-22 02:12:08.557
+gg1 committed to bb2 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.562
+bb2 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.562
+bb2 give gift6 of type Luxuryof price 675 to gg1 at 2017-04-19 02:12:08.563
+bb2 give gift23 of type Luxuryof price 661 to gg1 at 2017-04-19 02:12:08.563
+bb2 give gift9 of type Luxuryof price 650 to gg1 at 2017-04-19 02:12:08.563
+Couple: bb7 and gg7 breaks up at 2017-04-22 02:12:08.557
+gg7 committed to bb22 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb22 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.565
+bb22 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.565
+bb22 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.565
+bb22 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.565
+Couple: bb12 and gg4 breaks up at 2017-04-22 02:12:08.557
+gg4 committed to bb7 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.568
+bb7 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.568
+bb7 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.568
+bb7 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.568
+bb7 give gift9 of type Luxuryof price 650 to gg4 at 2017-04-19 02:12:08.568
+Couple: bb17 and gg9 breaks up at 2017-04-22 02:12:08.557
+gg9 committed to bb30 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb30 give gift3 of type Luxuryof price 715 to gg9 at 2017-04-19 02:12:08.57
+bb30 give gift18 of type Luxuryof price 699 to gg9 at 2017-04-19 02:12:08.571
+bb30 give gift6 of type Luxuryof price 675 to gg9 at 2017-04-19 02:12:08.571
+bb30 give gift23 of type Luxuryof price 661 to gg9 at 2017-04-19 02:12:08.571
+bb30 give gift9 of type Luxuryof price 650 to gg9 at 2017-04-19 02:12:08.571
+Couple: bb16 and gg13 breaks up at 2017-04-22 02:12:08.557
+gg13 committed to bb1 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.573
+bb1 give gift18 of type Luxuryof price 699 to gg13 at 2017-04-19 02:12:08.573
+Couple: bb6 and gg15 breaks up at 2017-04-22 02:12:08.557
+gg15 committed to bb5 at 2017-04-22 02:12:08.557
+Gift Exchanges are : 
+bb5 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.575
+Least 8 Happiest Couple
+Couple: bb9 and gg0 breaks up at 2017-04-23 02:12:08.578
+gg0 committed to bb12 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.579
+bb12 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.579
+bb12 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.579
+bb12 give gift23 of type Luxuryof price 661 to gg0 at 2017-04-19 02:12:08.579
+Couple: bb0 and gg8 breaks up at 2017-04-23 02:12:08.578
+gg8 committed to bb6 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb6 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.581
+Couple: bb2 and gg1 breaks up at 2017-04-23 02:12:08.578
+gg1 committed to bb0 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.583
+bb0 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.583
+bb0 give gift6 of type Luxuryof price 675 to gg1 at 2017-04-19 02:12:08.583
+Couple: bb7 and gg4 breaks up at 2017-04-23 02:12:08.578
+gg4 committed to bb2 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.585
+bb2 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.585
+bb2 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.585
+bb2 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.585
+bb2 give gift9 of type Luxuryof price 650 to gg4 at 2017-04-19 02:12:08.586
+Couple: bb1 and gg13 breaks up at 2017-04-23 02:12:08.578
+gg13 committed to bb7 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.588
+bb7 give gift18 of type Luxuryof price 699 to gg13 at 2017-04-19 02:12:08.588
+bb7 give gift6 of type Luxuryof price 675 to gg13 at 2017-04-19 02:12:08.588
+bb7 give gift23 of type Luxuryof price 661 to gg13 at 2017-04-19 02:12:08.588
+bb7 give gift9 of type Luxuryof price 650 to gg13 at 2017-04-19 02:12:08.588
+Couple: bb22 and gg7 breaks up at 2017-04-23 02:12:08.578
+gg7 committed to bb17 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb17 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.59
+bb17 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.59
+bb17 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.591
+bb17 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.591
+bb17 give gift9 of type Luxuryof price 650 to gg7 at 2017-04-19 02:12:08.591
+Couple: bb30 and gg9 breaks up at 2017-04-23 02:12:08.578
+Couple: bb5 and gg15 breaks up at 2017-04-23 02:12:08.578
+gg15 committed to bb1 at 2017-04-23 02:12:08.578
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.594
+bb1 give gift18 of type Luxuryof price 699 to gg15 at 2017-04-19 02:12:08.594
+Least 8 Happiest Couple
+Couple: bb12 and gg0 breaks up at 2017-04-26 02:12:08.596
+gg0 committed to bb14 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb14 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.596
+bb14 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.596
+Couple: bb7 and gg13 breaks up at 2017-04-26 02:12:08.596
+gg13 committed to bb5 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb5 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.598
+Couple: bb17 and gg7 breaks up at 2017-04-26 02:12:08.596
+gg7 committed to bb7 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.599
+bb7 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.6
+bb7 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.6
+bb7 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.6
+bb7 give gift9 of type Luxuryof price 650 to gg7 at 2017-04-19 02:12:08.6
+Couple: bb1 and gg15 breaks up at 2017-04-26 02:12:08.596
+gg15 committed to bb9 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb9 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.601
+bb9 give gift18 of type Luxuryof price 699 to gg15 at 2017-04-19 02:12:08.602
+bb9 give gift6 of type Luxuryof price 675 to gg15 at 2017-04-19 02:12:08.602
+Couple: bb0 and gg1 breaks up at 2017-04-26 02:12:08.596
+gg1 committed to bb1 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.603
+bb1 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.603
+Couple: bb2 and gg4 breaks up at 2017-04-26 02:12:08.596
+gg4 committed to bb12 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.605
+bb12 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.605
+bb12 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.605
+bb12 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.605
+Couple: bb6 and gg8 breaks up at 2017-04-26 02:12:08.596
+gg8 committed to bb0 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.607
+bb0 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.607
+bb0 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.607
+Couple: bb3 and gg11 breaks up at 2017-04-26 02:12:08.596
+gg11 committed to bb2 at 2017-04-26 02:12:08.596
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.609
+bb2 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.61
+bb2 give gift6 of type Luxuryof price 675 to gg11 at 2017-04-19 02:12:08.61
+bb2 give gift23 of type Luxuryof price 661 to gg11 at 2017-04-19 02:12:08.61
+bb2 give gift9 of type Luxuryof price 650 to gg11 at 2017-04-19 02:12:08.61
+Least 8 Happiest Couple
+Couple: bb2 and gg11 breaks up at 2017-04-27 02:12:08.612
+gg11 committed to bb16 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb16 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.612
+bb16 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.612
+bb16 give gift6 of type Luxuryof price 675 to gg11 at 2017-04-19 02:12:08.612
+Couple: bb9 and gg15 breaks up at 2017-04-27 02:12:08.612
+gg15 committed to bb2 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.615
+bb2 give gift18 of type Luxuryof price 699 to gg15 at 2017-04-19 02:12:08.615
+bb2 give gift6 of type Luxuryof price 675 to gg15 at 2017-04-19 02:12:08.615
+bb2 give gift23 of type Luxuryof price 661 to gg15 at 2017-04-19 02:12:08.615
+bb2 give gift9 of type Luxuryof price 650 to gg15 at 2017-04-19 02:12:08.615
+Couple: bb14 and gg0 breaks up at 2017-04-27 02:12:08.612
+gg0 committed to bb3 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb3 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.617
+bb3 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.618
+Couple: bb0 and gg8 breaks up at 2017-04-27 02:12:08.612
+gg8 committed to bb9 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb9 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.62
+bb9 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.62
+bb9 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.62
+Couple: bb1 and gg1 breaks up at 2017-04-27 02:12:08.612
+gg1 committed to bb0 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.621
+bb0 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.621
+bb0 give gift6 of type Luxuryof price 675 to gg1 at 2017-04-19 02:12:08.621
+Couple: bb7 and gg7 breaks up at 2017-04-27 02:12:08.612
+gg7 committed to bb30 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb30 give gift3 of type Luxuryof price 715 to gg7 at 2017-04-19 02:12:08.623
+bb30 give gift18 of type Luxuryof price 699 to gg7 at 2017-04-19 02:12:08.623
+bb30 give gift6 of type Luxuryof price 675 to gg7 at 2017-04-19 02:12:08.623
+bb30 give gift23 of type Luxuryof price 661 to gg7 at 2017-04-19 02:12:08.623
+bb30 give gift9 of type Luxuryof price 650 to gg7 at 2017-04-19 02:12:08.624
+Couple: bb5 and gg13 breaks up at 2017-04-27 02:12:08.612
+gg13 committed to bb1 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.625
+bb1 give gift18 of type Luxuryof price 699 to gg13 at 2017-04-19 02:12:08.625
+Couple: bb12 and gg4 breaks up at 2017-04-27 02:12:08.612
+gg4 committed to bb7 at 2017-04-27 02:12:08.612
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.628
+bb7 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.628
+bb7 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.628
+bb7 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.628
+bb7 give gift9 of type Luxuryof price 650 to gg4 at 2017-04-19 02:12:08.628
+Least 8 Happiest Couple
+Couple: bb2 and gg15 breaks up at 2017-04-30 02:12:08.635
+gg15 committed to bb5 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb5 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.635
+Couple: bb16 and gg11 breaks up at 2017-04-30 02:12:08.635
+gg11 committed to bb2 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.637
+bb2 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.637
+bb2 give gift6 of type Luxuryof price 675 to gg11 at 2017-04-19 02:12:08.637
+bb2 give gift23 of type Luxuryof price 661 to gg11 at 2017-04-19 02:12:08.637
+bb2 give gift9 of type Luxuryof price 650 to gg11 at 2017-04-19 02:12:08.637
+Couple: bb9 and gg8 breaks up at 2017-04-30 02:12:08.635
+gg8 committed to bb12 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.638
+bb12 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.638
+bb12 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.639
+bb12 give gift23 of type Luxuryof price 661 to gg8 at 2017-04-19 02:12:08.639
+Couple: bb0 and gg1 breaks up at 2017-04-30 02:12:08.635
+gg1 committed to bb6 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb6 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.64
+Couple: bb30 and gg7 breaks up at 2017-04-30 02:12:08.635
+Couple: bb7 and gg4 breaks up at 2017-04-30 02:12:08.635
+gg4 committed to bb17 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb17 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.643
+bb17 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.643
+bb17 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.643
+bb17 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.643
+bb17 give gift9 of type Luxuryof price 650 to gg4 at 2017-04-19 02:12:08.644
+Couple: bb1 and gg13 breaks up at 2017-04-30 02:12:08.635
+gg13 committed to bb0 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.645
+bb0 give gift18 of type Luxuryof price 699 to gg13 at 2017-04-19 02:12:08.646
+bb0 give gift6 of type Luxuryof price 675 to gg13 at 2017-04-19 02:12:08.646
+Couple: bb3 and gg0 breaks up at 2017-04-30 02:12:08.635
+gg0 committed to bb1 at 2017-04-30 02:12:08.635
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.647
+bb1 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.647
+Least 8 Happiest Couple
+Couple: bb2 and gg11 breaks up at 2017-05-04 02:12:08.648
+gg11 committed to bb3 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb3 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.649
+bb3 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.649
+Couple: bb1 and gg0 breaks up at 2017-05-04 02:12:08.648
+gg0 committed to bb2 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.651
+bb2 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.651
+bb2 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.651
+bb2 give gift23 of type Luxuryof price 661 to gg0 at 2017-04-19 02:12:08.651
+bb2 give gift9 of type Luxuryof price 650 to gg0 at 2017-04-19 02:12:08.651
+Couple: bb12 and gg8 breaks up at 2017-05-04 02:12:08.648
+gg8 committed to bb1 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.653
+bb1 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.653
+Couple: bb17 and gg4 breaks up at 2017-05-04 02:12:08.648
+gg4 committed to bb12 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.654
+bb12 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.654
+bb12 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.654
+bb12 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.655
+Couple: bb6 and gg1 breaks up at 2017-05-04 02:12:08.648
+gg1 committed to bb7 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.657
+bb7 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.657
+bb7 give gift6 of type Luxuryof price 675 to gg1 at 2017-04-19 02:12:08.657
+bb7 give gift23 of type Luxuryof price 661 to gg1 at 2017-04-19 02:12:08.657
+bb7 give gift9 of type Luxuryof price 650 to gg1 at 2017-04-19 02:12:08.657
+Couple: bb0 and gg13 breaks up at 2017-05-04 02:12:08.648
+gg13 committed to bb6 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb6 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.659
+Couple: bb5 and gg15 breaks up at 2017-05-04 02:12:08.648
+gg15 committed to bb0 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.661
+bb0 give gift18 of type Luxuryof price 699 to gg15 at 2017-04-19 02:12:08.661
+bb0 give gift6 of type Luxuryof price 675 to gg15 at 2017-04-19 02:12:08.661
+Couple: bb15 and gg6 breaks up at 2017-05-04 02:12:08.648
+gg6 committed to bb16 at 2017-05-04 02:12:08.648
+Gift Exchanges are : 
+bb16 give gift3 of type Luxuryof price 715 to gg6 at 2017-04-19 02:12:08.663
+bb16 give gift18 of type Luxuryof price 699 to gg6 at 2017-04-19 02:12:08.663
+bb16 give gift6 of type Luxuryof price 675 to gg6 at 2017-04-19 02:12:08.663
+Least 8 Happiest Couple
+Couple: bb0 and gg15 breaks up at 2017-05-06 02:12:08.665
+gg15 committed to bb9 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb9 give gift3 of type Luxuryof price 715 to gg15 at 2017-04-19 02:12:08.665
+bb9 give gift18 of type Luxuryof price 699 to gg15 at 2017-04-19 02:12:08.665
+bb9 give gift6 of type Luxuryof price 675 to gg15 at 2017-04-19 02:12:08.665
+Couple: bb2 and gg0 breaks up at 2017-05-06 02:12:08.665
+gg0 committed to bb0 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb0 give gift3 of type Luxuryof price 715 to gg0 at 2017-04-19 02:12:08.668
+bb0 give gift18 of type Luxuryof price 699 to gg0 at 2017-04-19 02:12:08.668
+bb0 give gift6 of type Luxuryof price 675 to gg0 at 2017-04-19 02:12:08.668
+Couple: bb1 and gg8 breaks up at 2017-05-06 02:12:08.665
+gg8 committed to bb2 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb2 give gift3 of type Luxuryof price 715 to gg8 at 2017-04-19 02:12:08.67
+bb2 give gift18 of type Luxuryof price 699 to gg8 at 2017-04-19 02:12:08.67
+bb2 give gift6 of type Luxuryof price 675 to gg8 at 2017-04-19 02:12:08.67
+bb2 give gift23 of type Luxuryof price 661 to gg8 at 2017-04-19 02:12:08.67
+bb2 give gift9 of type Luxuryof price 650 to gg8 at 2017-04-19 02:12:08.67
+Couple: bb7 and gg1 breaks up at 2017-05-06 02:12:08.665
+gg1 committed to bb1 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb1 give gift3 of type Luxuryof price 715 to gg1 at 2017-04-19 02:12:08.672
+bb1 give gift18 of type Luxuryof price 699 to gg1 at 2017-04-19 02:12:08.672
+Couple: bb6 and gg13 breaks up at 2017-05-06 02:12:08.665
+gg13 committed to bb5 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb5 give gift3 of type Luxuryof price 715 to gg13 at 2017-04-19 02:12:08.673
+Couple: bb12 and gg4 breaks up at 2017-05-06 02:12:08.665
+gg4 committed to bb7 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb7 give gift3 of type Luxuryof price 715 to gg4 at 2017-04-19 02:12:08.675
+bb7 give gift18 of type Luxuryof price 699 to gg4 at 2017-04-19 02:12:08.675
+bb7 give gift6 of type Luxuryof price 675 to gg4 at 2017-04-19 02:12:08.675
+bb7 give gift23 of type Luxuryof price 661 to gg4 at 2017-04-19 02:12:08.675
+bb7 give gift9 of type Luxuryof price 650 to gg4 at 2017-04-19 02:12:08.675
+Couple: bb16 and gg6 breaks up at 2017-05-06 02:12:08.665
+gg6 committed to bb12 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb12 give gift3 of type Luxuryof price 715 to gg6 at 2017-04-19 02:12:08.677
+bb12 give gift18 of type Luxuryof price 699 to gg6 at 2017-04-19 02:12:08.677
+bb12 give gift6 of type Luxuryof price 675 to gg6 at 2017-04-19 02:12:08.677
+bb12 give gift23 of type Luxuryof price 661 to gg6 at 2017-04-19 02:12:08.677
+Couple: bb3 and gg11 breaks up at 2017-05-06 02:12:08.665
+gg11 committed to bb16 at 2017-05-06 02:12:08.665
+Gift Exchanges are : 
+bb16 give gift3 of type Luxuryof price 715 to gg11 at 2017-04-19 02:12:08.679
+bb16 give gift18 of type Luxuryof price 699 to gg11 at 2017-04-19 02:12:08.679
+bb16 give gift6 of type Luxuryof price 675 to gg11 at 2017-04-19 02:12:08.679
