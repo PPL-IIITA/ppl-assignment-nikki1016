@@ -1,0 +1,16 @@
+# run
+
+$ git clone https://github.com/PPL-IIITA/ppl-assignment-nikki1016.git
+
+Change to directory:
+
+$ cd ppl-assignment-nikki1016
+
+
+$ cd q_11/src/
+
+$ javac q_11/*.java IllegealException/*.java
+$ javac q_11/*.java IllegealException/*.java
+
+$ cd .. 
+$ java q_11.q11_main
